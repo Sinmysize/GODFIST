@@ -6,19 +6,45 @@
 ## Physical Attacks
 > Crits will make enemies travel 20 ft away from you and take 10 extra damage
 
-- Attack Name
-    - Description
-    - To Hit +#
-    - Damage
+- Slash
+    - Slash with Long Odachi
+    - To Hit +7
+    - (2d20 + 10)
+
+- Combat Combo 
+    - Do 5 consecutive attacks
+    - 1 Target
+    - 5ft
+    - (To Hit +2) * 5
+    - (2d8 + 4)
+
+- Basic Punch
+    - Throw a punch
+    - 1 Target
+    - 5ft
+    - To Hit +3
+    - (3d4 + 6)
+
+- High Kick
+    - Kick towards the head
+    - 1 Target
+    - 5ft
+    - To Hit +4
+    - (2d8 + 5)
+
+- Low Kick
+    - Kick towards the legs
+    - 1 Target
+    - To Hit +4
+    - (2d8 + 4)
 
 ## Abilities
-- Ability Name
-    - Ability Description
-    - Ability Roll
+- Swiftness (Bonus Action) **[NO AWAKENING NEEDED]**
+    - Gain extra speed and walking distance when using this ability
 
 ## Reactions
-- Reaction Name
-    - Description
+- Parry
+    - Parry the enemy's attack. You get to roll with advantage on your next attack to that same enemy, but if you miss the enemy rolls with advantage on their attack
 
 ## Bonus Actions
 - Action Name

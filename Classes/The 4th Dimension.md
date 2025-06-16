@@ -53,6 +53,10 @@
     - Create a clone of yourself (Max of 5).
     - Each clone has 1/3 of your current health, but rolls the same as you.
 
+- Rage
+    - Your blood boils with a murderous intent. Add +5 to any To Hit Roll or Damage Roll. This ability lasts 5 turns.
+    - Can only be used twice per day.
+
 - Distort (Action) **[AWAKENING NEEDED]**
     - Either distort any physical object or terrain around you or someone's vision
     - Distortion of physical objects or terrain will cause it to warp into however you please. 

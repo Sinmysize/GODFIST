@@ -9,7 +9,7 @@
 - Staff Strike **[MUST HAVE STAFF]**
     - Strike with your staff
     - 5 Targets
-    - To Hit +#
+    - To Hit +6
     - (3d10 + 5)
         - If staff is 10 ft or larger, add 1/3 of the length of the staff to damage
 

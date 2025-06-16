@@ -53,7 +53,7 @@
     - Create a clone of yourself (Max of 5).
     - Each clone has 1/3 of your current health, but rolls the same as you.
 
-- Rage
+- Rage **[AWAKENING NEEDED]**
     - Your blood boils with a murderous intent. Add +5 to any To Hit Roll or Damage Roll. This ability lasts 5 turns.
     - Can only be used twice per day.
 
